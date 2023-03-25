@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/pra78/goit-js-hw-10.git"
   },
   "keywords": [],
   "author": "PR <iosdev506@gmail.com>",
@@ -28,9 +28,3 @@
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
-
-
-"homepage": "https://your_username.github.io/your_repo_name/",
-"scripts": {
-  "build": "parcel build src/*.html --public-url /your_repo_name/"
-},
