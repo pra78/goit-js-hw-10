@@ -58,7 +58,6 @@ function renderCountries(result) {
 }
 
 function renderOneCountry(result) {
-    console.log(result[0].flags.svg);
     return `
     <p class="country-descr">
         <img src="${result[0].flags.svg}" alt="the flag of ${result[0].name.common}" width="5%" height="5%">
